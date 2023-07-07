@@ -35,6 +35,8 @@ namespace FiringModeClient
             "WEAPON_ADVANCEDRIFLE",
             "WEAPON_SPECIALCARBINE",
             "WEAPON_BULLPUPRIFLE",
+            "WEAPON_M4",
+            "WEAPON_SCAR",
             "WEAPON_COMPACTRIFLE",
         };
         #endregion
